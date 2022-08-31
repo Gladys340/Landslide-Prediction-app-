@@ -1,8 +1,8 @@
-pandas........1.4.3
-numpy.........1.23.2
-matplotlib....3.5.3
-streamlit.....1.12.2
-joblib........1.1.0
-scikit-learn..1.1.2
-seaborn.......0.11.2
-catboost......1.0.6 
+pandas
+numpy
+matplotlib
+streamlit
+joblib
+scikit-learn
+seaborn
+catboost
